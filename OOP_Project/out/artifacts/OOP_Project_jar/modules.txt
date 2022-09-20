@@ -1,0 +1,4 @@
+STAT7007,Probability and Statistics
+COMP7013,Object oriented programming
+SOFT7019,C Programming
+COMP7037,NoSQL Data architectures
